@@ -1,0 +1,7 @@
+320268991
+Aprendi a hacer un programa que calcule datos, que en este caso son coordenadas, de forma que los datos a calcular
+los proporciona un "robot", haciendo asi que no tengamos que introducir ningun dato nosotros, solo hacemos el codigo de
+forma que escanee los datos proporcionados por los archivos .dat, y que devuelva todos los datos solicitados, fue un
+poco desafiante ya que no sabia muy bien como se hacia, pero despues de probar varias cosas y repasar los apuntes y actividades
+realizadas, fue un poco mas sencillo. Ya que todo lo que ocupe fueron recursos y cosas que se vieron en el salon de clases
+solo que tenia que pensar la forma en que tenia que escribir el codigo de forma que cumpliera con los requisitos.
